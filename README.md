@@ -1,9 +1,11 @@
 # 🌾 AgriMind AI – Smart Crop & Weather Intelligence System
 
-![Banner](banner.png)
+![AgriMind AI Banner](my_banner.png)
 
-![Demo Video](demo.gif)
+> Empowering Farmers with AI-Powered Crop Recommendations and Weather Intelligence
+
+![Project Demo](demo.gif)
 
 ## 🚀 Overview
 
-AgriMind AI is an intelligent agriculture assistant powered by Machine Learning and Weather Analytics.
+AgriMind AI is a smart agriculture platform that combines Machine Learning and Weather Intelligence...
